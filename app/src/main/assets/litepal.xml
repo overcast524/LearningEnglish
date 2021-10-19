@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="learningenglish"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.learningenglish.database.User"></mapping>
+        <mapping class="com.example.learningenglish.database.Word"></mapping>
+        <mapping class="com.example.learningenglish.database.MyDate"></mapping>
+        <mapping class="com.example.learningenglish.database.Interpretation"></mapping>
+        <mapping class="com.example.learningenglish.database.Phrase"></mapping>
+        <mapping class="com.example.learningenglish.database.Sentence"></mapping>
+        <mapping class="com.example.learningenglish.database.Sentence"></mapping>
+        <mapping class="com.example.learningenglish.database.UserConfig"></mapping>
+        <mapping class="com.example.learningenglish.database.DailyData"></mapping>
+        <mapping class="com.example.learningenglish.database.LearnTime"></mapping>
+        <mapping class="com.example.learningenglish.database.WordFolder"></mapping>
+        <mapping class="com.example.learningenglish.database.FolderLinkWord"></mapping>
+    </list>
+</litepal>

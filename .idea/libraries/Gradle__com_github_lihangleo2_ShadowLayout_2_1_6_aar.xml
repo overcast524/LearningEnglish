@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lihangleo2:ShadowLayout:2.1.6@aar">
+    <CLASSES>
+      <root url="jar://F:/Android/gradle/caches/transforms-2/files-2.1/1c83fdd636fcf7d4e280d3c263c94375/jetified-ShadowLayout-2.1.6/jars/classes.jar!/" />
+      <root url="file://F:/Android/gradle/caches/transforms-2/files-2.1/1c83fdd636fcf7d4e280d3c263c94375/jetified-ShadowLayout-2.1.6/res" />
+      <root url="file://F:/Android/gradle/caches/transforms-2/files-2.1/1c83fdd636fcf7d4e280d3c263c94375/jetified-ShadowLayout-2.1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/1c83fdd636fcf7d4e280d3c263c94375/jetified-ShadowLayout-2.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/1c83fdd636fcf7d4e280d3c263c94375/jetified-ShadowLayout-2.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/1c83fdd636fcf7d4e280d3c263c94375/jetified-ShadowLayout-2.1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Android/gradle/caches/modules-2/files-2.1/com.github.lihangleo2/ShadowLayout/2.1.6/725e54dc4fdde3ff3263bda416bcbd80431e58/ShadowLayout-2.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/com.github.lihangleo2/ShadowLayout/2.1.6/725e54dc4fdde3ff3263bda416bcbd80431e58/ShadowLayout-2.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

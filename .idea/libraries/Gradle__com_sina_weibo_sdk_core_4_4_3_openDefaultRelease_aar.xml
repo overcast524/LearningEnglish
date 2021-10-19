@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sina.weibo.sdk:core:4.4.3:openDefaultRelease@aar">
+    <CLASSES>
+      <root url="jar://F:/Android/gradle/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/jars/classes.jar!/" />
+      <root url="file://F:/Android/gradle/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/res" />
+      <root url="file://F:/Android/gradle/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/AndroidManifest.xml" />
+      <root url="jar://F:/Android/gradle/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/jars/libs/ssosdk.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/jars/libs/ssosdk.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/efc434d496f0d8d199fd7d96c68a90a2/jetified-core-4.4.3-openDefaultRelease/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

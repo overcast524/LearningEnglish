@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: cz.msebera.android:httpclient:4.4.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/c8d96f6fd2bcc179c312da33ee670a71188cc60d/httpclient-4.4.1.1.jar!/" />
+      <root url="jar://F:/Android/gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/c8d96f6fd2bcc179c312da33ee670a71188cc60d/httpclient-4.4.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/f83415a57212729eb4c75acb3be97c296fdc1025/httpclient-4.4.1.1-javadoc.jar!/" />
+      <root url="jar://F:/Android/gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/f83415a57212729eb4c75acb3be97c296fdc1025/httpclient-4.4.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/6043377765eede90d438403d7510139a9e464ee5/httpclient-4.4.1.1-sources.jar!/" />
+      <root url="jar://F:/Android/gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.4.1.1/6043377765eede90d438403d7510139a9e464ee5/httpclient-4.4.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

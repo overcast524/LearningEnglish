@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: org.litepal.android:java:3.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/e2f6338b8c2d8c374671452324227e55/jetified-java-3.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/e2f6338b8c2d8c374671452324227e55/jetified-java-3.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/caches/transforms-2/files-2.1/e2f6338b8c2d8c374671452324227e55/jetified-java-3.0.0/res" />
+      <root url="jar://F:/Android/gradle/caches/transforms-2/files-2.1/e2f6338b8c2d8c374671452324227e55/jetified-java-3.0.0/jars/classes.jar!/" />
+      <root url="file://F:/Android/gradle/caches/transforms-2/files-2.1/e2f6338b8c2d8c374671452324227e55/jetified-java-3.0.0/AndroidManifest.xml" />
+      <root url="file://F:/Android/gradle/caches/transforms-2/files-2.1/e2f6338b8c2d8c374671452324227e55/jetified-java-3.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/caches/modules-2/files-2.1/org.litepal.android/java/3.0.0/494ed8ebec335809cec8e1b782b6cd0267ee59c2/java-3.0.0-sources.jar!/" />
+      <root url="jar://F:/Android/gradle/caches/modules-2/files-2.1/org.litepal.android/java/3.0.0/494ed8ebec335809cec8e1b782b6cd0267ee59c2/java-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
